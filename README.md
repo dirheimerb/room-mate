@@ -1,4 +1,4 @@
-# [roomGPT.io](https://roommate.vercel.app)
+# [RoomMate](https://roommate.vercel.app)
 
 This project generates designs of your room with AI.
 
