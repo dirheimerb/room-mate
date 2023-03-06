@@ -1,0 +1,56 @@
+{
+  "name": "room-mate",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Room Mate",
+  "author": "Bradley Dirheimer",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@headlessui/tailwindcss": "^0.1.2",
+    "@heroicons/react": "^2.0.16",
+    "@tailwindcss/forms": "^0.5.3",
+    "@upstash/ratelimit": "^0.3.9",
+    "@upstash/redis": "^1.20.1",
+    "@vercel/analytics": "^0.1.11",
+    "framer-motion": "^10.1.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-compare-slider": "^2.2.0",
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-uploader": "^3.10.0",
+    "react-use-measure": "^2.1.1",
+    "request-ip": "^3.3.0",
+    "uploader": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.6",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "@types/request-ip": "^0.0.37",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.35.0",
+    "eslint-config-next": "13.2.3",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "tailwindcss": "^3.2.7",
+    "typescript": "4.9.5"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 80,
+    "tabWidth": 2,
+    "semi": true,
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "singleAttributePerLine": true
+  }
+}
