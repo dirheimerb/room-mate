@@ -171,7 +171,7 @@ const Home: NextPage = () => {
               )}
               {restoredImage && (
                 <div>
-                  Here's {' '} your remodeled <b>{room.toLowerCase()}</b> in the{' '}
+                  {"Here's"} your remodeled <b>{room.toLowerCase()}</b> in the{' '}
                   <b>{theme.toLowerCase()}</b> theme!{' '}
                 </div>
               )}
