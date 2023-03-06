@@ -4,8 +4,8 @@ class MyDocument extends Document {
   render() {
     let description = 'Generate your dream room in seconds.';
     let ogimage = 'https://www.roomgpt.io/og-image.png';
-    let sitename = 'roomGPT.io';
-    let title = 'Dream Room Generator';
+    let sitename = 'roomMate';
+    let title = 'RoomMate';
 
     return (
       <Html lang="en">
