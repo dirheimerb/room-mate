@@ -2,7 +2,7 @@
 
 This project generates designs of your room with AI.
 
-[![Room GPT](./public/screenshot.png)](https://roommate.vercel.app)
+[![RoomMate](./public/screenshot.png)](https://roommate.vercel.app)
 
 ## How it works
 
