@@ -7,7 +7,7 @@ export type themeType =
 
 export type roomType =
   | 'Living Room'
-  | 'Dining Room'
+  | 'Kitchen'
   | 'Bedroom'
   | 'Bathroom'
   | 'Office'
@@ -22,7 +22,7 @@ export const themes: themeType[] = [
 ];
 export const rooms: roomType[] = [
   'Living Room',
-  'Dining Room',
+  'Kitchen',
   'Office',
   'Bedroom',
   'Bathroom',
